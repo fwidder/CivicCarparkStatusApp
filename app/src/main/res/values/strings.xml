@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auckland Carpark Status</string>
+    <string name="simpleOn">Simple Mode</string>
+    <string name="simpleOff">Complex Mode</string>
+</resources>
