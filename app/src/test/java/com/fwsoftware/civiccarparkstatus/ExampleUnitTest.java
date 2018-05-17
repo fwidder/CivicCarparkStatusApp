@@ -1,4 +1,4 @@
-package eu.fwsoftware.civiccarparkstatus;
+package com.fwsoftware.civiccarparkstatus;
 
 import org.junit.Test;
 
